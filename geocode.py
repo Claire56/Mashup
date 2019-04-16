@@ -76,15 +76,6 @@ def salonType(need,loc):
 
 
 if __name__ == '__main__':
-    salonType("Pizza", "Tokyo, Japan")
+    salonType("Black hair", "Los Angeles ,CA")
     
-    # findARestaurant("Tacos", "Jakarta, Indonesia")
-
-    # findARestaurant("Tapas", "Maputo, Mozambique")
-    # findARestaurant("Falafel", "Cairo, Egypt")
-    # findARestaurant("Spaghetti", "New Delhi, India")
-    # findARestaurant("Cappuccino", "Geneva, Switzerland")
-    # findARestaurant("Sushi", "Los Angeles, California")
-    # findARestaurant("Steak", "La Paz, Bolivia")
-    # findARestaurant("Gyros", "Sydney, Australia")
-
+    
